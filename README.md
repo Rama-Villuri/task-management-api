@@ -1,7 +1,3 @@
-# task-management-api
-
-# task-management-api
-
 # Task Management API
 
 This API allows users to create, edit, and delete tasks, as well as organize them into lists.
